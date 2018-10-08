@@ -1,0 +1,11 @@
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\bin\Debug\netcoreapp2.1\Exercicio06.deps.json
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\bin\Debug\netcoreapp2.1\Exercicio06.runtimeconfig.json
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\bin\Debug\netcoreapp2.1\Exercicio06.runtimeconfig.dev.json
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\bin\Debug\netcoreapp2.1\Exercicio06.dll
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\bin\Debug\netcoreapp2.1\Exercicio06.pdb
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.AssemblyInfoInputs.cache
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.AssemblyInfo.cs
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.dll
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.pdb
+C:\Users\Adiel Silva\source\repos\Exercicio06\Exercicio06\obj\Debug\netcoreapp2.1\Exercicio06.csprojAssemblyReference.cache
